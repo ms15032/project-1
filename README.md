@@ -11,6 +11,7 @@ All project-related code is in `model.ipynb`.  It was run in a Kaggle notebook e
   * `aaai24.bib` - report references file
   * `aaai24.sty` - report styling file
   * `aaai24.bst` - report references styling file
+  * `*.png` - figures for the report 
 * `report.pdf` - final project report generated from LaTeX
 
 ## Attributions
