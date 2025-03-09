@@ -1,10 +1,10 @@
 # Project 1
 
-All project-related code is in `train.ipynb`.  It was run in a Kaggle notebook environment with a `P100` GPU.
+All project-related code is in `model.ipynb`.  It was run in a Kaggle notebook environment with a `P100` GPU.
 
 ## Files
 
-* `train.ipynb` - all code including dataset processing, training, and evaluation
+* `model.ipynb` - all code including dataset processing, training, and evaluation
 * `project.pdf` - the project brief and instructions from the instructor
 * `report` - all report-related files
   * `main.tex` - LaTeX file for the project report
