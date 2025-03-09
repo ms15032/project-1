@@ -2,6 +2,16 @@
 
 All project-related code is in `train.ipynb`.  It was run in a Kaggle notebook environment with a `P100` GPU.
 
+## Files
+
+* `train.ipynb` - all code including dataset processing, training, and evaluation
+* `project.pdf` - the project brief and instructions from the instructor
+* `main.tex` - LaTeX file for the project report
+* `aaai24.bib` - report references file
+* `aaai24.sty` - report styling file
+* `aaai24.bst` - report references styling file
+* `report.pdf` - final project report generated from LaTeX
+
 ## Attributions
 
 * Training a Classifier — PyTorch Tutorials 2.6.0+cu124 documentation. (n.d.). https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
